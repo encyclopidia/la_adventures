@@ -1,4 +1,4 @@
-### lLA Adventure App
+### LA Adventure App
 
 -----
 
