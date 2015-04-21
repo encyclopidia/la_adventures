@@ -1,1 +1,5 @@
-# la_adventures
+### lLA Adventure App
+
+-----
+
+*Made by* ***Lydia Whitlock***
